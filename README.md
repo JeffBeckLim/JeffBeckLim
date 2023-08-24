@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://bestanimations.com/media/knights-rpg/1157056055knight-pixel-art.gif" width="100"/>
-  <img src="https://thumbs.gfycat.com/BlaringAdeptAyeaye-max-1mb.gif" width="50" height="50"/>
+  <img src="https://i.gifer.com/origin/a1/a1a734fdb6457e1adadc7ef98c3e2bac_w200.gif" width="50" height="50"/>
 </div>
  
  # About Me

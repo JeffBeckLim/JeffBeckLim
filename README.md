@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://bestanimations.com/media/knights-rpg/1157056055knight-pixel-art.gif" width="100"/>
-  <img src="https://i.giphy.com/media/1wmdI5Nk5MjD0XIwdy/giphy.webp" style="max-width: 2px;"/>
+  <img src="https://i.giphy.com/media/1wmdI5Nk5MjD0XIwdy/giphy.webp" style="max-width: 200px;"/>
 </div>
  
  # About Me

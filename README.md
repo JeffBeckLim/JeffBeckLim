@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://www.scoilcolmcillelk.ie/wp/wp-content/uploads/2016/04/coffee-animated-gif-5.gif](https://cdna.artstation.com/p/assets/images/images/020/833/710/original/francesco-montibello-gandalf-1.gif?1569345311)" width="100"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/020/833/710/original/francesco-montibello-gandalf-1.gif?1569345311" width="100"/>
 </div>
  
  # About Me

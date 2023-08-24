@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/020/833/710/original/francesco-montibello-gandalf-1.gif?1569345311" width="100"/>
-  <img src="https://thumbs.gfycat.com/BlaringAdeptAyeaye-max-1mb.gif" width="50" height="50"/>
+  <img src="[https://thumbs.gfycat.com/BlaringAdeptAyeaye-max-1mb.gif](https://i.giphy.com/media/1APhKdqZy7DzZMUjpj/giphy.webp)" width="50" height="50"/>
 </div>
  
  # About Me

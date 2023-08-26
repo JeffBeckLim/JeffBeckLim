@@ -7,9 +7,10 @@
  # About Me
  
 - 👋 Hi, I’m Jeff Beck Lim
-- 👀 I’m interested in Web and graphic design
-- 🌱 I’m currently learning Laravel ( out of topic but also blender ) 
+- 👀 I’m interested in Web Development and Digital Art
+- 🍎 Senior Year BSIT Student in Bicol University 
 - 📫 How to reach me ~ limjeff64@gmail.com
+-  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" style="width: 80px;"/>
 
 <!---
 JeffBeckLim/JeffBeckLim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

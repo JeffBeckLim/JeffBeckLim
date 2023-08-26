@@ -10,7 +10,7 @@
 - 👀 I’m interested in Web Development and Digital Art
 - 🍎 Senior Year BSIT Student in Bicol University 
 - 📫 How to reach me ~ limjeff64@gmail.com
--  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" style="width: 20px;"/>
+-  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" style="width: 20px;"/> Currently Developing Capstone Project with Laravel
 
 <!---
 JeffBeckLim/JeffBeckLim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

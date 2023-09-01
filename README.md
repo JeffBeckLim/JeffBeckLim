@@ -5,7 +5,8 @@
   <img src="https://bestanimations.com/media/knights-rpg/1157056055knight-pixel-art.gif" style="width: 100px;"/>
   <img src="https://i.giphy.com/media/1wmdI5Nk5MjD0XIwdy/giphy.webp" style="width: 80px;"/>
 </div>
- # Me 
+ 
+ #Me
 - 📫 How to reach me ~ limjeff64@gmail.com
 -  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" style="width: 20px;"/> Currently Developing Capstone Project with Laravel
 
